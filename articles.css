@@ -1,0 +1,56 @@
+body{
+	margin: 0;
+	font-size: 1em;
+	font-family: Times;
+	font-weight: normal;
+}
+#art1{
+	background-color: red;
+	font-family: Helvetica;
+	font-size: .5em;
+	color: black;
+	line-height: 10px;
+	padding: 20px;
+	border: 5px solid purple;
+	border-radius: 10px;
+}
+#art2 {
+	background-color: blue;
+	font-family: Verdana;
+	font-size: 1em;
+	color: red;
+	line-height: 15px;
+	padding: 15px;
+	border: 1px dotted black;
+	border-radius: 20px;
+}
+#art3 {
+	background-color: purple;
+	font-family: Arial;
+	font-size: 1.25em;
+	color: white;
+	line-height: 20px;
+	padding: 12px;
+	border: 7px dashed green;
+	border-radius: 30px;
+}
+#art4{
+	background-color: pink;
+	font-family: Times;
+	font-szie: 1.75em;
+	color: blue;
+	line-height: 25px;
+	padding: 6px;
+	border: 10px solid brown;
+	border-radius: 40px;
+}
+#art5 {
+	background-color: green;
+	font-family: "Arial Black";
+	font-size: 2em;
+	color: khaki;
+	line-height: 30px;
+	padding: 3px;
+	border: 15px dashed purple;
+	border-radius: 50px;
+}
